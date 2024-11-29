@@ -1,0 +1,11 @@
+this file tells what is written in the python file
+
+print("hello world")
+name = "mahak singh"
+dob="03-04-2004"
+
+# i m a girl
+# hi
+
+
+all this tells the git person's data 
