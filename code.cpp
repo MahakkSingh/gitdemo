@@ -1,3 +1,6 @@
+// a cpp code to check if the entered
+//  integer is odd or even
+
 #include <iostream>
 using namespace std;
 
